@@ -1,3 +1,5 @@
+
+
 body {
   font-family: Arial, sans-serif;
   margin: 0;
@@ -124,4 +126,36 @@ section {
   background-color: #a29bfe;
 }
 
+.social-links {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.social-links li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.btn-email,
+.btn-linkedin,
+.btn-github {
+  display: inline-block;
+  background-color: transparent;
+  border: none;
+  padding: 0;
+}
+
+.btn-email img,
+.btn-linkedin img,
+.btn-github img {
+  width: 30px; /* Adjust the size as needed */
+  height: 30px; /* Adjust the size as needed */
+}
+
+.btn-email:hover img,
+.btn-linkedin:hover img,
+.btn-github:hover img {
+  opacity: 0.7;
+}
 
