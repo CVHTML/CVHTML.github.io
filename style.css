@@ -151,8 +151,8 @@ section {
     .btn-email img,
     .btn-linkedin img,
     .btn-github img {
-      width: 40px;
-      height: 40px;
+      width: 45px;
+      height: 45px;
     }
 
     .btn-email:hover img,
@@ -162,10 +162,21 @@ section {
     }
 
 
-.profile-photo {
+/* Rest of your existing CSS code */
+
+.profile-info {
   display: flex;
-  justify-content: center;
-  margin-top: 20px;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.profile-details {
+  margin-left: 10px;
+}
+
+.profile-details h1,
+.profile-details h3 {
+  margin: 0;
 }
 
 .profile-photo img {
