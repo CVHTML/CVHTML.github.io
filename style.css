@@ -4,13 +4,12 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background-color: rgba(187, 148, 247, 0.25);
 }
 
 .container {
-  max-width: 800px;
+  max-width: 0px;
   margin: 0 auto;
-  padding: 20px;
+  padding: 0px;
 }
 
 header {
@@ -235,10 +234,7 @@ section {
   border-radius: 4px;
 }
 
-
-
 .container {
   background-color: rgba(187, 148, 247, 0.25);
-    min-height: 100vh;
 }
 
