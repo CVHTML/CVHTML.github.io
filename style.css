@@ -51,8 +51,8 @@ section {
 }
 
 section h2 {
-  border-bottom: 3px solid #ccc;
-  padding-bottom: 10px;
+  border-bottom: 7px solid #ccc;
+  padding-bottom: 23px;
 }
 
 section:last-of-type {
