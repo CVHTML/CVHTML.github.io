@@ -161,7 +161,6 @@ section {
       opacity: 0.7;
     }
 
-/* Rest of your existing CSS code */
 
 .profile-photo {
   display: flex;
@@ -170,10 +169,11 @@ section {
 }
 
 .profile-photo img {
-  width: 120px;
-  height: 120px;
+  width: 60px; /* Adjust the size as desired */
+  height: 60px; /* Adjust the size as desired */
   border-radius: 50%;
 }
+
 
 .container {
   background-color: #BB94F7;
