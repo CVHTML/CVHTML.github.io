@@ -8,7 +8,7 @@ body {
   max-width: 960px;
   margin: 0 auto;
   padding: 20px;
-  background-color: rgba(187, 148, 247, 0.25);
+  background-color: rgba(187, 148, 247, 0.23);
 }
 
 header {
@@ -51,7 +51,7 @@ section {
 }
 
 section h2 {
-  border-bottom: 1px solid #ccc;
+  border-bottom: 3px solid #ccc;
   padding-bottom: 10px;
 }
 
