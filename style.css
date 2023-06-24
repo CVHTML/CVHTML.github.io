@@ -1,0 +1,135 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+h1 {
+  font-size: 32px;
+  margin-bottom: 5px;
+}
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 5px;
+}
+
+h3 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+section {
+  margin-bottom: 40px;
+}
+
+.skill {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.skill-name {
+  width: 150px;
+  font-weight: bold;
+}
+
+.skill-bar {
+  width: 200px;
+  height: 8px;
+  background-color: #f0f0f0;
+  border-radius: 4px;
+  margin-left: 10px;
+}
+
+.skill-progress {
+  height: 100%;
+  border-radius: 4px;
+}
+
+.skill-python .skill-progress {
+  width: 90%;
+  background-color: #00b894;
+}
+
+.skill-swift .skill-progress {
+  width: 70%;
+  background-color: #0984e3;
+}
+
+.skill-sql .skill-progress {
+  width: 80%;
+  background-color: #6c5ce7;
+}
+
+.skill-tableau .skill-progress {
+  width: 60%;
+  background-color: #fdcb6e;
+}
+
+.skill-communication .skill-progress {
+  width: 95%;
+  background-color: #55efc4;
+}
+
+.skill-presentation .skill-progress {
+  width: 85%;
+  background-color: #fd79a8;
+}
+
+.skill-leadership .skill-progress {
+  width: 75%;
+  background-color: #ffeaa7;
+}
+
+.skill-analytical .skill-progress {
+  width: 80%;
+  background-color: #fab1a0;
+}
+
+.skill-problem-solving .skill-progress {
+  width: 90%;
+  background-color: #74b9ff;
+}
+
+.skill-data-science .skill-progress {
+  width: 85%;
+  background-color: #00cec9;
+}
+
+.skill-ml .skill-progress {
+  width: 70%;
+  background-color: #a29bfe;
+}
+
+.skill-ios-dev .skill-progress {
+  width: 75%;
+  background-color: #ff7675;
+}
