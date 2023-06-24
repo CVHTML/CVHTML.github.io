@@ -177,8 +177,8 @@ section {
 }
 
 .profile-photo img {
-  width: 450px; 
-  height: 450px; 
+  width: 370px; 
+  height: 370px; 
   border-radius: 50%;
 }
 
@@ -188,11 +188,11 @@ section {
 }
 
 .profile-details {
-  margin-left: 20px; /* Add some spacing between the image and profile info */
+  margin-left: 15px;
 }
 
 
 .container {
-  background-color: rgba(187, 148, 247, 0.45);
+  background-color: rgba(187, 148, 247, 0.37);
 }
 
