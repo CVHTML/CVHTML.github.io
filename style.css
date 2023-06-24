@@ -75,42 +75,42 @@ section {
 }
 
 .skill-python .skill-progress {
-  width: 90%;
+  width: 85%;
   background-color: #00b894;
 }
 
 .skill-swift .skill-progress {
-  width: 70%;
+  width: 90%;
   background-color: #0984e3;
 }
 
 .skill-sql .skill-progress {
-  width: 80%;
+  width: 78%;
   background-color: #6c5ce7;
 }
 
 .skill-tableau .skill-progress {
-  width: 60%;
+  width: 73%;
   background-color: #fdcb6e;
 }
 
 .skill-communication .skill-progress {
-  width: 95%;
+  width: 75%;
   background-color: #55efc4;
 }
 
 .skill-presentation .skill-progress {
-  width: 85%;
+  width: 100%;
   background-color: #fd79a8;
 }
 
 .skill-leadership .skill-progress {
-  width: 75%;
+  width: 85%;
   background-color: #ffeaa7;
 }
 
 .skill-analytical .skill-progress {
-  width: 80%;
+  width: 87%;
   background-color: #fab1a0;
 }
 
@@ -119,17 +119,9 @@ section {
   background-color: #74b9ff;
 }
 
-.skill-data-science .skill-progress {
-  width: 85%;
-  background-color: #00cec9;
-}
-
 .skill-ml .skill-progress {
-  width: 70%;
+  width: 90%;
   background-color: #a29bfe;
 }
 
-.skill-ios-dev .skill-progress {
-  width: 75%;
-  background-color: #ff7675;
-}
+
