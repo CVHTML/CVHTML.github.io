@@ -9,7 +9,9 @@ body {
 .container {
   max-width: 0px;
   margin: 0 auto;
-  padding: 0px;
+  padding: 20px;
+  background-color: rgba(187, 148, 247, 0.25);
+
 }
 
 header {
@@ -234,8 +236,3 @@ section {
   padding: 5px 10px;
   border-radius: 4px;
 }
-
-.container {
-  background-color: rgba(187, 148, 247, 0.25);
-}
-
