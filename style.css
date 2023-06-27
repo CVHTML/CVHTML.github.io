@@ -231,7 +231,7 @@ section:last-of-type {
 }
 
 .app-details p {
-  margin-bottom: 5px;
+  margin-bottom: 3px;
 }
 
 .app-details a {
@@ -240,6 +240,6 @@ section:last-of-type {
   color: #000;
   background-color: #f5f5f5;
   padding: 3px 7px;
-  border-radius: 4px;
+  border-radius: 3px;
 }
 
