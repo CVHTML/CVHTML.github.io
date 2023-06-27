@@ -180,7 +180,10 @@ section:last-of-type {
 }
 
 .profile-details h1,
-.profile-details h3 {
+.profile-details h2,
+.profile-details h3,
+.profile-details h4,
+.profile-details h5 {
   margin: 0;
 }
 
